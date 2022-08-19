@@ -1,0 +1,1 @@
+Minhas resoluções do beecrowd
