@@ -1,4 +1,4 @@
-#------------- Pedindo informações (numero do funcionario, horas de trabalho e valor da hora de trabalho)
+#------------- Pedindo informações (numero do funcionario, horas de trabalho e valor das horas de trabalho)
 numero = int(input())
 horas_trabalho = int(input())
 valor_hora_trabalho = float(input())
