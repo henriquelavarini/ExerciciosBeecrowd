@@ -2,7 +2,7 @@
 valor = float(input())
 
 #----------- Verificando se esta dentro dos intervalos
-#----------- Apresentando -------------
+#----------- Apresentando
 if (valor >= 0) and (valor <= 25):
     print("Intervalo [0,25]")
 else:
