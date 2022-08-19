@@ -1,4 +1,4 @@
-#----------- Importando biblioteca -----------
+#----------- Importando biblioteca ----------
 import math
 
 #----------- Pedindo um valor e separando eles por espaçoes com split
