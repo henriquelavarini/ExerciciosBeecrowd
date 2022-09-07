@@ -1,7 +1,7 @@
-#-------------------- Pegando informações
+#------------------- Pegando informações
 quantidade_casos = int(input())
 soma_impares = 0
-#-------------------- Casos de teste
+#------------------- Casos de teste
 #Pedindo para ele repetir esse laço a quantidade de vezes que quantidade_casos
 for i in range(quantidade_casos):
     valor1, valor2 = input().split()
